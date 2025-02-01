@@ -44,7 +44,6 @@ This project focuses on enhancing EEG signals and reducing EMG noise using vario
 
 ## Screenshots
 ![](output.png) 
-*Place your output screenshot in the `screenshots` folder and update the path above.*
 
 ## Contributors
 - Bilal Qadeer (22-CP-30)
