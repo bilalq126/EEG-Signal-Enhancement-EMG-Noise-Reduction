@@ -56,7 +56,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - Special thanks to the authors of the libraries used in this project.
 - Inspired by various DSP techniques and research papers on EEG signal processing.
-
----
-
-Feel free to customize this README further to better fit your project's specifics. Make sure to replace placeholders like `yourusername` with your actual GitHub username and update the screenshot path as needed.
